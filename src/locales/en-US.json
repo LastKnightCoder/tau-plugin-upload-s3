@@ -1,0 +1,19 @@
+{
+  "account.title": "Account",
+  "account.accessKey": "Access Key ID",
+  "account.secret": "Secret Access Key",
+  "location.title": "Storage location",
+  "location.publicHint": "Returned resource URLs must be publicly accessible. The plugin does not change bucket permissions.",
+  "location.bucket": "Bucket",
+  "location.region": "Region",
+  "location.endpoint": "Service URL",
+  "location.endpointHint": "For S3-compatible services such as R2 or MinIO",
+  "location.path": "Directory",
+  "location.publicBase": "Public URL prefix",
+  "location.publicBaseHint": "For a custom domain or CDN",
+  "style.label": "URL style",
+  "style.path": "Path style",
+  "style.pathHint": "Uses endpoint/bucket/object for the broadest compatibility",
+  "style.virtual": "Virtual-hosted style",
+  "style.virtualHint": "Uses bucket.endpoint/object"
+}
